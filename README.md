@@ -53,7 +53,7 @@ As the demand for collaborative, cloud-based development environments grows, Col
 
 ### Landing Page
 
-![Landing Page](/public/Landing.png)
+![Landing Page](/public/collab_works.png)
 The landing page introduces users to CollabWorks with an overview of key features and benefits.
 
 ### Code Editor
