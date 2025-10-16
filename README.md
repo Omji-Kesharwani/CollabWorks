@@ -61,10 +61,7 @@ The landing page introduces users to CollabWorks with an overview of key feature
 ![Code Editor](/public/collab_works_code_editor.png)
 The powerful Monaco-based editor supports multiple languages with syntax highlighting and intelligent suggestions.
 
-### Comments Section
 
-![Comments](/public/Comments.png)
-Engage with the community through the interactive comments section for shared code snippets.
 
 ### Pro Features
 
