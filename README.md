@@ -58,7 +58,7 @@ The landing page introduces users to CollabWorks with an overview of key feature
 
 ### Code Editor
 
-![Code Editor](/public/Editor.png)
+![Code Editor](/public/collab_works_code_editor.png)
 The powerful Monaco-based editor supports multiple languages with syntax highlighting and intelligent suggestions.
 
 ### Comments Section
@@ -68,17 +68,17 @@ Engage with the community through the interactive comments section for shared co
 
 ### Pro Features
 
-![Pro Features](/public/Pro.png)
+![Pro Features](/public/collab_works_pro.png)
 Premium features available to Pro subscribers for an enhanced coding experience.
 
 ### Pricing Options
 
-![Pricing](/public/Price.png)
+![Pricing](/public/collab_works_price.png)
 Transparent pricing tiers with feature comparison to help users choose the right plan.
 
 ### Profile
 
-![Profile](/public/Profile.png)
+![Profile](/public/collab_works_profile.png)
 Manage your personal information, view coding activity, and track your progress.
 
 ---
